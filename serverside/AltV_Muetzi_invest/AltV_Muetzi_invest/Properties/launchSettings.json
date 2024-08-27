@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AltV_Debbug_std": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Shadow\\OneDrive\\Coding\\AltvServer\\altv-server.exe",
+      "workingDirectory": "C:\\Users\\Shadow\\OneDrive\\Coding\\AltvServer"
+    }
+  }
+}

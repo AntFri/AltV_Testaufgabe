@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AltV_Muetzi_invest/1.0.0": {
+        "dependencies": {
+          "AltV.Net": "16.2.2"
+        },
+        "runtime": {
+          "AltV_Muetzi_invest.dll": {}
+        }
+      },
+      "AltV.Net/16.2.2": {
+        "dependencies": {
+          "AltV.Net.Shared": "16.2.2"
+        },
+        "runtime": {
+          "lib/net6.0/AltV.Net.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AltV.Net.CApi/16.2.2": {
+        "runtime": {
+          "lib/net6.0/AltV.Net.CApi.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AltV.Net.Shared/16.2.2": {
+        "dependencies": {
+          "AltV.Net.CApi": "16.2.2"
+        },
+        "runtime": {
+          "lib/net6.0/AltV.Net.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AltV_Muetzi_invest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AltV.Net/16.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E4+9OyxL8Wohj0ad1Kkb1XeQsauoyRRLAMz9k6oSoiMmbxyZCXoxTH5Ox/2rFTNN1oB3Q95bYOEBZWosXNMEmQ==",
+      "path": "altv.net/16.2.2",
+      "hashPath": "altv.net.16.2.2.nupkg.sha512"
+    },
+    "AltV.Net.CApi/16.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xP+BytTA5QyCNPzQiFYbdW8ZwYfi42jDYUnOimEMJn2XXkT3bZ9eHoc+mckh4b6uELk/RjpTMlDaFcsOp1ysGA==",
+      "path": "altv.net.capi/16.2.2",
+      "hashPath": "altv.net.capi.16.2.2.nupkg.sha512"
+    },
+    "AltV.Net.Shared/16.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-M9uaVrGDaYNoZMHESTjvZFJgxA4K0GFM/GIm2SWuJF6Bho/jPjLlhmp32a67Yz4oXN1IofzMK7DjpYcj2U4TEQ==",
+      "path": "altv.net.shared/16.2.2",
+      "hashPath": "altv.net.shared.16.2.2.nupkg.sha512"
+    }
+  }
+}

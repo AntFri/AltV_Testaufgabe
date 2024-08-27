@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+t6zJaolKY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shadow\\OneDrive\\Coding\\AltvServer\\resources\\AltV_Muetzi_invest\\AltV_Muetzi_invest\\AltV_Muetzi_invest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shadow\\.nuget\\packages\\altv.net\\16.2.2\\altv.net.16.2.2.nupkg.sha512",
+    "C:\\Users\\Shadow\\.nuget\\packages\\altv.net.capi\\16.2.2\\altv.net.capi.16.2.2.nupkg.sha512",
+    "C:\\Users\\Shadow\\.nuget\\packages\\altv.net.client\\16.2.2\\altv.net.client.16.2.2.nupkg.sha512",
+    "C:\\Users\\Shadow\\.nuget\\packages\\altv.net.interactions\\16.2.2\\altv.net.interactions.16.2.2.nupkg.sha512",
+    "C:\\Users\\Shadow\\.nuget\\packages\\altv.net.resources.chat.api\\16.2.2\\altv.net.resources.chat.api.16.2.2.nupkg.sha512",
+    "C:\\Users\\Shadow\\.nuget\\packages\\altv.net.shared\\16.2.2\\altv.net.shared.16.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\Debug\net6.0\AltV_Muetzi_invest.deps.json
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\Debug\net6.0\AltV_Muetzi_invest.dll
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\Debug\net6.0\AltV_Muetzi_invest.pdb
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\AltV_Muetzi_invest\obj\Debug\net6.0\AltV_Muetzi_invest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\AltV_Muetzi_invest\obj\Debug\net6.0\AltV_Muetzi_invest.AssemblyInfoInputs.cache
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\AltV_Muetzi_invest\obj\Debug\net6.0\AltV_Muetzi_invest.AssemblyInfo.cs
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\AltV_Muetzi_invest\obj\Debug\net6.0\AltV_Muetzi_invest.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\AltV_Muetzi_invest\obj\Debug\net6.0\AltV_Muetzi_invest.dll
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\AltV_Muetzi_invest\obj\Debug\net6.0\refint\AltV_Muetzi_invest.dll
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\AltV_Muetzi_invest\obj\Debug\net6.0\AltV_Muetzi_invest.pdb
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\AltV_Muetzi_invest\obj\Debug\net6.0\ref\AltV_Muetzi_invest.dll
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\AltV_Muetzi_invest\obj\Debug\net6.0\AltV_Muetzi_invest.csproj.AssemblyReference.cache
+C:\Users\Shadow\OneDrive\Coding\AltvServer\resources\AltV_Muetzi_invest\AltV_Muetzi_invest\obj\Debug\net6.0\AltV_Mue.3DA8906D.Up2Date
